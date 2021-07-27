@@ -6,8 +6,21 @@
     border: none;
     background:  linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
     border-radius: 10px;
-    /* padding: 18px 33px;
-    font-size: 16px; */
-    /* font-weight: 500; */
+    padding: 18px 33px;
+    font-size: 16px;
+    font-weight: 500;
     color: white;
+}
+
+.span-color{
+    color: #383737;
+}
+
+.heading-color{
+    color: #FABE4C;
+}
+
+.bg-img{
+    background-color: #F1F1F1;
+    border-radius: 10px;
 }
